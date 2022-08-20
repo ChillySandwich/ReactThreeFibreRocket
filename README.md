@@ -8,11 +8,11 @@ I modelled a basic rocket in Blender, and exported it as a GLTF object.
 
 Great to use some tools by the Poimandres team:
 
-[This is an external link to genome.gov](https://www.genome.gov/)
-*[react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
-*[drei](https://drei.pmnd.rs/)
-*[valtio state management](https://valtio.pmnd.rs/)
-*[GLTFJSX converter](https://github.com/pmndrs/gltfjsx)
+
+* [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+* [drei](https://drei.pmnd.rs/)
+* [valtio state management](https://valtio.pmnd.rs/)
+* [GLTFJSX converter](https://github.com/pmndrs/gltfjsx)
 
 
 [Credit to the shoe tutorial by Yuri Artiukh](https://www.youtube.com/watch?v=xy_tbV4pC54)
