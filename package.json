@@ -12,6 +12,7 @@
     "@react-three/fiber": "^8.0.27",
     "react": "^18.0.0",
     "react-colorful": "^5.5.1",
+    "react-dat-gui": "^4.1.1",
     "react-dom": "^18.0.0",
     "three": "^0.142.0",
     "valtio": "^1.6.1"
