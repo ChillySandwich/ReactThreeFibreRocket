@@ -13,8 +13,11 @@ Great to use some tools by the Poimandres team:
 -GLTFJSX converter 
 
 
-Credit to tutorial by Yuri Artiukh :
+Credit to the shoe tutorial by Yuri Artiukh :
 https://www.youtube.com/watch?v=xy_tbV4pC54
+
+
+![React Three Fiber Rocket](https://github.com/ChillySandwich/ReactThreeFibreRocket/blob/main/public/Rocket.PNG)
 
 ## Getting Started
 
